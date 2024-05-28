@@ -25,12 +25,3 @@ else if (answer.oprator === "division") {
 else {
     console.log("select the valid oprator");
 }
-// packages
-// tsc --init
-// npm init -y
-// npm i @types/node -D     // npm i inquirer
-// npm i --save-dev @types/inquirer
-// .gitignore
-// git clone link....     // from github folder to vs code
-// tsc main.ts & node main.js
-// cls // for clean terminal
